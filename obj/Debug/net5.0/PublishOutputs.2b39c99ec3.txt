@@ -1,0 +1,7 @@
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\First_Demo_ASPWeb.exe
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\appsettings.Development.json
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\appsettings.json
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\First_Demo_ASPWeb.dll
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\First_Demo_ASPWeb.deps.json
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\First_Demo_ASPWeb.runtimeconfig.json
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\publish\First_Demo_ASPWeb.pdb
