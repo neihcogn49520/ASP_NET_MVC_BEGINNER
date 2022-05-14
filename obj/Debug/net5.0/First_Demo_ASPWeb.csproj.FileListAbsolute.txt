@@ -21,3 +21,5 @@ G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\obj\Debug\net5.0\
 G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\obj\Debug\net5.0\ref\First_Demo_ASPWeb.dll
 G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\obj\Debug\net5.0\First_Demo_ASPWeb.pdb
 G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\obj\Debug\net5.0\First_Demo_ASPWeb.genruntimeconfig.cache
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\package-lock.json
+G:\PRACTICE_3rd_SEMESTER_2\TTCM\ASP_BEGINNER\First_Demo_ASPWeb\bin\Debug\net5.0\package.json
